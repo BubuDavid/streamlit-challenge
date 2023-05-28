@@ -8,3 +8,4 @@ En este taller, aprenderemos sobre algunas de las tareas a resolver en visión c
 - Conocimiento de Python (3.0>)
 - Familiaridad con Notebooks (Google Collaboratory)
 - Una cuenta de Google
+# streamlit-challenge
